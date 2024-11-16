@@ -34,10 +34,6 @@ pilotos, clientes e compras. O sistema foi desenvolvido em Java e utiliza concei
 3. Compile as classes Java usando um terminal ou IDE.
 4. Execute a classe `Main` para iniciar o sistema.
 
-## Contribuições
-
-Sinta-se à vontade para contribuir com melhorias ou correções! Para isso, crie um fork deste repositório e envie suas alterações.
-
 ## Licença
 
 Este projeto está licenciado sob a MIT License - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
