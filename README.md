@@ -1,4 +1,4 @@
-# Sistema de Vendas de Passagens Aéreas
+# Sistema de Vendas de Passagens Aéreas 🛬
 
 Este projeto é um sistema de vendas de passagens aéreas que permite gerenciar informações sobre aeroportos, voos, aeronaves, 
 pilotos, clientes e compras. O sistema foi desenvolvido em Java e utiliza conceitos da Programação Orientada a Objetos.
